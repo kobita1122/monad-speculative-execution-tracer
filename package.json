@@ -1,0 +1,10 @@
+{
+  "name": "monad-speculative-execution-tracer",
+  "version": "1.0.0",
+  "description": "Speculative execution tracer and predictive telemetry engine for Monad EVM",
+  "main": "traceSpeculativePipeline.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
